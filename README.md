@@ -17,4 +17,4 @@ Simple photo redactor on  python
 <img width="978" height="277" alt="image" src="https://github.com/user-attachments/assets/e63d0049-ecb6-4ebb-8a06-03b0b2232090" />
 
 5.Зайдите в файл "main.py". Теперь код готов к использованию.
-![Uploading image.png…]()
+<img width="394" height="117" alt="2026-05-01_20-04-25" src="https://github.com/user-attachments/assets/4366e507-364b-4de2-9a74-e3bc4eeb67bb" />
