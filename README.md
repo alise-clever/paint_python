@@ -4,6 +4,7 @@ Simple photo redactor on  python
 
 # How do I install it?
 1.Нажмите на кнопку «Code»: Найдите и нажмите на зеленую кнопку <> Code, расположенную в правом верхнем углу над списком файлов.
+<img width="278" height="50" alt="image" src="https://github.com/user-attachments/assets/6426dc0b-0af1-433c-839a-57c8843daa58" />
 
 2.Выберите «Download ZIP»: В выпадающем меню выберите пункт Download ZIP. Начнется загрузка архива со всеми файлами проекта.
 <img width="286" height="92" alt="image" src="https://github.com/user-attachments/assets/f4431eab-b85f-4966-af63-6060b86da005" />
