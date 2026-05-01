@@ -13,4 +13,5 @@ Simple photo redactor on  python
 <img width="549" height="135" alt="image" src="https://github.com/user-attachments/assets/a5987aad-f270-4d35-a9aa-c234bf175412" />
 
 4.Переместите файл в нужную папку. Теперь код готов к использованию. 
+
 <img width="978" height="277" alt="image" src="https://github.com/user-attachments/assets/e63d0049-ecb6-4ebb-8a06-03b0b2232090" />
